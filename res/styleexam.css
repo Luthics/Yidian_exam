@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    background: #ffffff;
+}
+
+.table {
+    display: table;
+    margin: 0 auto;
+}
